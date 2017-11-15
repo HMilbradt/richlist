@@ -17,4 +17,8 @@ Example:
 
 ### Contributions
 
-Unfortunately, the project is not currently open to new contributions.  However the code may be downloaded and used according to 
+Unfortunately, the project is not currently open to new contributions.
+
+### Contact
+
+If you have any questions, comments, or concerns, shoot me an email at <harrison.milbradt@gmail.com>.
