@@ -15,3 +15,6 @@ Example:
 
 >Mary is a new user who wants to be #1 in the list.  Bob occupies the top spot, and has $10 in his account.  Mary pays $10.01, taking the top spot, and shifting Bob down to the #2 spot.
 
+### Contributions
+
+Unfortunately, the project is not currently open to new contributions.  However the code may be downloaded and used according to 
