@@ -1,0 +1,60 @@
+html, body {
+    color: whitesmoke;
+    background-color: #191e23;
+}
+
+
+.navbar-brand, .navbar-brand:focus {
+    color: whitesmoke;
+}
+
+.navbar-brand:hover {
+    color: #ea6151;
+}
+
+.nav-item .nav-link {
+     color: whitesmoke;
+ }
+
+.nav-item .nav-link:hover {
+    color: #ea6151;
+}
+
+.hamburger:focus {
+    outline: none;
+}
+
+.card {
+    color: #191e23;
+}
+
+.text-highlight {
+    color: #198a00;
+}
+
+.text-highlight-red {
+    color: #ea6151;
+}
+
+.link-highlight {
+    color: #ea6151;
+    text-decoration: none;
+}
+
+.link-highlight:hover, .link-highlight:focus {
+    color: #803d2f;
+    text-decoration: none;
+}
+
+.masthead {
+    height: 30rem;
+    margin: 0 0 10rem 0;
+}
+
+.hero-body {
+    margin-top: 1rem;
+}
+
+footer {
+    margin: 5rem 0;
+}
